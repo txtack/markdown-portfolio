@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+A few of my favorite things: :heart_eyes:
+  * Dogs :dog:
+  * Cats :cat:
+  * Ice cream cake from Carvel :icecream: :cake:
